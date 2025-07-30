@@ -1,0 +1,26 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+.env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Data & model files
+*.pkl
+*.joblib
+*.h5
+
+# Streamlit cache
+.streamlit/
+
+# OS/system files
+.DS_Store
+Thumbs.db
