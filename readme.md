@@ -56,15 +56,19 @@ This launches the interactive web app in your browser.
 
 ---
 
-## 📷 Screenshot
+## 📷 Screenshot  
+### 🔍 Main User Interface of the EV Forecasting App (Streamlit)
+![Working Screenshot](Screenshots\Deployed.jpg)
+- - - 
+### 🔍 3-Year Forecast for a Single County
+![Working Screenshot](Screenshots\running.jpg)
+![ss](Screenshots\image.jpg)
+- - -
+### 🔍 Comparison of EV Adoption Trends for Three Counties
+![Working Screenshot](Screenshots\s.jpg)
+![Working Screenshot](Screenshots\r2.jpg)
 
-![Working Screenshot](image.png)
-
----
-
-## 🔮 Forecast Example
-
-> "EV adoption in **Los Angeles County** is expected to show an **increase of 57.49%** over the next 3 years."
+<!-- <sub><i>EV adoption in <strong>Los Angeles County</strong> is expected to show an <strong>increase of 57.49%</strong> over the next 3 years.</i></sub> -->
 
 ---
 
