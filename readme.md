@@ -2,6 +2,11 @@
 
 This project forecasts the future growth of Electric Vehicles (EVs) in Washington State using historical monthly registration data (2017–2024). It helps urban planners identify when and where to scale EV infrastructure like charging stations.
 
+## 🚀 Live Demo
+
+Try the deployed web app here:  
+👉 [EV Forecast Streamlit App](https://ev-adoption-forecasting.streamlit.app/)
+
 ---
 
 ## 📌 Use Cases
@@ -118,4 +123,5 @@ This launches the interactive web app in your browser.
 ## 📄 License
 
 This project is licensed under the **MIT License**.
+
 
